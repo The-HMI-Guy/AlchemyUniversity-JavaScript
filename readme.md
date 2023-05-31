@@ -32,5 +32,3 @@ Follow my progress as I move through each week of the course. Each directory in 
 By the end of this course, I aim to be confident in my JavaScript skills and ready to take on the Ethereum Dev Bootcamp, which dives deeper into web3 development.
 
 Feel free to follow along with my journey, and don't hesitate to reach out if you have any tips, suggestions, or general comments!
-
-Remember: "The expert in anything was once a beginner." Let's get coding!
